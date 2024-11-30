@@ -1,1 +1,3 @@
 # .github
+
+Academies of Loudoun RoboLoCo is a FIRST Robotics Competition (FRC) team that represents our school, the Academies of Loudoun. Our team name stands for Robotics - Loudoun County because we were the first FRC team in Loudoun County. We work year-round to grow our expertise in everything from programming to CAD to machine fabrication. Our team also engages in many outreach programs, such as showcasing our robot at various community STEAM nights, advocating for STEM education at the National Advocacy Conference, promoting STEM with our podcast, Robocast, and supporting other FRC teams in the Chesapeake District! 
