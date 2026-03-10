@@ -1,18 +1,18 @@
 # Description
 
-<!-->
+<!--
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies (issues/PRs) that are required for this change.
 
 The PR should not try to address many unrelated things at once. The PR should focus on as small of a scope as possible, minimizing commits and lines/files changed, while still being sensible.
-</-->
+-->
 
 ## Issues Addressed
 
-<!--> List issue #s that are addressed by this PR or delete if not relevant. </-->
+<!-- List issue #s that are addressed by this PR or delete if not relevant. -->
 
 ## Type of change
 
-<!--> Please delete options that are not relevant.</-->
+<!-- Please delete options that are not relevant. -->
 
 - [ ] `bugfix`: Fixes an issue
 - [ ] `feature`: Adds new or additional functionality
@@ -22,27 +22,27 @@ The PR should not try to address many unrelated things at once. The PR should fo
 
 ## Dependencies
 
-<!--> Please list PR #s that need to be merged before this PR can be merged or delete if not relevant.  </-->
+<!-- Please list PR #s that need to be merged before this PR can be merged or delete if not relevant.  -->
 
 # How Has This Been Tested?
 
-<!-->
+<!--
 Please delete this section if not relevant (i.e. documentation).
 
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
 
 Ensure the branch was up-to-date with the main branch when the tests were done.
-</-->
+-->
 
 - [ ] Unit Tests
 - [ ] Tested in Simulation
 - [ ] Tested on Physical Robot
 
-<!--> If any relevant information proving the validity of the tests can be provided, attach that. For example, screen recordings, AdvantageKit logs, or videos of the robot. </-->
+<!-- If any relevant information proving the validity of the tests can be provided, attach that. For example, screen recordings, AdvantageKit logs, or videos of the robot. -->
 
 # Checklist:
 
-<!--> Do not remove any of these options but you may leave unnecessary options unchecked. If this PR is a draft or changes are made and re-test is required, this list can be updated. </-->
+<!-- Do not remove any of these options but you may leave unnecessary options unchecked. If this PR is a draft or changes are made and re-test is required, this list can be updated. -->
 
 ## Pull Request
 

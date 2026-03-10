@@ -9,20 +9,20 @@ assignees: ''
 
 ## Bug Description
 
-<!-->  Provide a brief description of the issue. </-->
+<!-- Provide a brief description of the issue. -->
 
 ## Observed Behavior
 
-<!-->
+<!--
 Provide a brief description of the bug experienced.
 
 If applicable and available, provide relavant logs, images, or recordings or the behavior.
-</-->
+-->
 
 ### Steps to Reproduce
 
-<!--> Provide the steps that can be preformed to reproduce the bug </-->
+<!-- Provide the steps that can be preformed to reproduce the bug -->
 
 ## Expected Behavior
 
-<!--> Provide a brief description of what the behavior should look like to resolve this issue. </-->
+<!-- Provide a brief description of what the behavior should look like to resolve this issue. -->
