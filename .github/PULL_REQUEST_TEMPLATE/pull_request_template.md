@@ -18,7 +18,7 @@ The PR should not try to address many unrelated things at once. The PR should fo
 - [ ] `feature`: Adds new or additional functionality
 - [ ] `refactor`: Modifies or reworks existing functionality
 - [ ] `doc`: Updates documentation or resources
-- [ ] `misc`: Miscellanious changes
+- [ ] `misc`: Miscellaneous changes
 
 ## Dependencies
 
